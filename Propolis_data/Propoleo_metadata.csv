@@ -1,125 +1,124 @@
-SampleID;SampleNMR;Date_YMD;Probe;Shims;RG;Type;Folder;Origen;Zona ;Color;R;G;B;Extracto;Resinas %;;
-M46;PRO046B_PRO;190205;2;;64;;32;Santander;bh-PM;red;115;2;0;5,48;ND;;
-M47;PRO047A_PRO;190205;2;;50,8;;32;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65;;
-M47;PRO047B_PRO;190205;2;;45,2;;32;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65;;
-M48;PRO048A_PRO;190118;2;;60,5;;32;Casanare;bh-T;yellow;162;133;54;7,74;14;;
-M25;PRO025A_PRO;180917;1;;90,5;;22;Tolima;bh-T;light_yellow;108;102;68;3,58;0;;
-M44;PRO044A_C;190206;2;;64;C;22;Brasil;BRA;red;115;2;0;11,51;ND;;
-M55;PRO055A_C;190206;2;;40,3;C;22;ND;ND;reddish_brown;57;9;5;ND;ND;;
-M1;PRO001A_PRO;180910;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6;47;;
-M1;PRO001B_PRO;180910;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6;47;;
-M2;PRO002A_PRO;180910;1;;90,5;;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7;;
-M2;PRO002B_C;190207;1;;50,8;C;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7;;
-M2;PRO002B_PRO;180910;1;;90,5;;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7;;
-M3;PRO003A_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;3,68;10;;
-M3;PRO003B_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;3,68;10;;
-M4;PRO004A_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;2,29;10;;
-M4;PRO004B_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;2,29;10;;
-M5;PRO005A_PRO;180911;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,09;6;;
-M5;PRO005B_PRO;180911;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,09;6;;
-M6;PRO006A_PRO;180911;1;;90,5;;12;Boyacá;bs-MB;blackish_brown;50;12;6;7,15;18;;
-M6;PRO006B_PRO;180911;1;;90,5;;12;Boyacá;bs-MB;blackish_brown;50;12;6;7,15;18;;
-M7;PRO007A_PRO;180911;1;;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5;;
-M7;PRO007B_PRO;180911;1;B;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5;;
-M7;PRO007C_PRO;180912;1;;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5;;
-M8;PRO008A_PRO;180911;1;;90,5;;12;Boyacá;bh-PM;reddish_brown;57;9;5;2,42;37;;
-M8;PRO008B_PRO;180911;1;B;90,5;;12;Boyacá;bh-PM;reddish_brown;57;9;5;2,42;37;;
-M8;PRO008C_PRO;180912;1;;90,5;;12;Boyacá;bh-PM;reddish_brown;57;9;5;2,42;37;;
-M9;PRO009A_PRO;180913;1;;90,5;;12;Boyacá;bh-PM;reddish_yellow;246;99;1;3,69;28;;
-M9;PRO009B_PRO;180913;1;;90,5;;12;Boyacá;bh-PM;reddish_yellow;246;99;1;3,69;28;;
-M10;PRO010A_PRO;180912;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;5,68;17;;
-M10;PRO010B_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;5,68;17;;
-M11;PRO011A_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;2,33;21;;
-M11;PRO011B_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;2,33;21;;
-M12;PRO012A_PRO;180913;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13;;
-M12;PRO012B_PRO;180913;1;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13;;
-M12;PRO012C_PRO;180913;1;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13;;
-M12;PRO012D_PRO;180913;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13;;
-M13;PRO013A_PRO;180913;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;5,99;65;;
-M13;PRO013B_PRO;180913;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;5,99;65;;
-M14;PRO014A_PRO;180913;1;;90,5;;12;Boyacá;bs-MB;reddish_yellow;246;99;1;4,22;17;;
-M14;PRO014B_PRO;180913;1;;90,5;;12;Boyacá;bs-MB;reddish_yellow;246;99;1;4,22;17;;
-M15;PRO015A_PRO;180914;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;4,38;54;;
-M15;PRO015B_PRO;180914;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;4,38;54;;
-M16;PRO016A_PRO;180914;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;2,88;11;;
-M16;PRO016B_PRO;180914;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;2,88;11;;
-M18;PRO018A_PRO;180915;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;4,2;36;;
-M18;PRO018B_PRO;180915;1;;90,5;;12;Boyacá;bs-MB;yellow;162;133;54;4,2;36;;
-M19;PRO019A_PRO;180915;1;;90,5;;12;Arauca;bh-T;blackish_brown;50;12;6;7,01;53;;
-M19;PRO019B_PRO;180915;1;;90,5;;12;Arauca;bh-T;blackish_brown;50;12;6;7,01;53;;
-M20;PRO020A_PRO;180915;1;;90,5;;12;Arauca;bh-T;yellow;162;133;54;5,73;29;;
-M20;PRO020B_PRO;180915;1;;90,5;;12;Arauca;bh-T;yellow;162;133;54;5,73;29;;
-M21;PRO021A_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;reddish_yellow;246;99;1;3,55;19;;
-M21;PRO021B_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;reddish_yellow;246;99;1;3,55;19;;
-M22;PRO022A_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;yellow;162;133;54;4,02;62;;
-M22;PRO022B_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;yellow;162;133;54;4,02;62;;
-M23;PRO023A_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;yellow;162;133;54;3,66;ND;;
-M23;PRO023B_PRO;180915;1;;90,5;;12;Boyacá;bh-MB;yellow;162;133;54;3,66;ND;;
-M24;PRO024A_PRO;180915;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,73;8;;
-M24;PRO024B_PRO;180915;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,73;8;;
-M25;PRO025B_PRO;180917;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;3,58;0;;
-M26;PRO026A_C;181104;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7;;
-M26;PRO026A_PRO;190207;2;;50,8;C;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7;;
-M26;PRO026B_PRO;181104;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7;;
-M27;PRO027A_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;1,97;13;;
-M27;PRO027B_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;1,97;13;;
-M28;PRO028A_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,5;ND;;
-M28;PRO028B_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,5;ND;;
-M29;PRO029A_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;4,74;60;;
-M29;PRO029B_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;4,74;60;;
-M30;PRO030A_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,34;21;;
-M30;PRO030B_PRO;181125;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,34;21;;
-M31;PRO031A_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,15;6;;
-M31;PRO031B_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,15;6;;
-M32;PRO032A_PRO;181126;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,36;2;;
-M32;PRO032B_PRO;181126;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,36;2;;
-M33;PRO033A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,45;3;;
-M33;PRO033B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,45;3;;
-M34;PRO034A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,86;ND;;
-M34;PRO034B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,86;ND;;
-M35;PRO035A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;5,58;51;;
-M35;PRO035B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;5,58;51;;
-M36;PRO036A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,23;69;;
-M36;PRO036B_C;190207;2;;50,8;C;12;San Andres;bs-T;red;115;2;0;7,23;69;;
-M36;PRO036B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,23;69;;
-M37;PRO037A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,09;58;;
-M37;PRO037B_C;190206;2;;50,8;C;12;San Andres;bs-T;red;115;2;0;7,09;58;;
-M37;PRO037B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,09;58;;
-M38;PRO038A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_yellow;246;99;1;1,94;15;;
-M38;PRO038B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_yellow;246;99;1;1,94;15;;
-M39;PRO039A_PRO;181125;1;;90,5;;12;Tolima;bh-PM;reddish;124;37;1;1,13;13;;
-M39;PRO039B_C;190207;2;;50,8;C;12;Tolima;bh-PM;reddish;124;37;1;1,13;13;;
-M39;PRO039B_PRO;181125;1;;90,5;;12;Tolima;bh-PM;reddish;124;37;1;1,13;13;;
-M40;PRO040A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_brown;57;9;5;2,56;ND;;
-M40;PRO040B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_brown;57;9;5;2,56;ND;;
-M41;PRO041_C;190206;2;;90,5;C;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11;;
-M41;PRO041A_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11;;
-M41;PRO041B_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11;;
-M42;PRO042A_C;190207;2;;50,8;C;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND;;
-M42;PRO042A_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND;;
-M42;PRO042B_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND;;
-M44;PRO044A_PRO;180921;2;;90,5;;12;Brasil;BRA;red;115;2;0;11,51;ND;;
-M44;PRO044B_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;11,51;ND;;
-M45;PRO045A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,96;ND;;
-M45;PRO045B_PRO;180922;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,96;ND;;
-M46;PRO046A_PRO;190118;2;B;64;;12;Santander;bh-PM;red;115;2;0;5,48;ND;;
-M47;PRO047A_C;190206;2;;50,8;C;12;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65;;
-M48;PRO048B_PRO;190118;2;;64;;12;Casanare;bh-T;yellow;162;133;54;7,74;14;;
-M49;PRO049A_PRO;181201;1;;90,5;;12;Bolivar;bs-T;reddish_yellow;246;99;1;ND;ND;;
-M49;PRO049B_PRO;181201;1;;90,5;;12;Bolivar;bs-T;reddish_yellow;246;99;1;ND;ND;;
-M50;PRO050A_PRO;181213;1;;90,5;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND;;
-M50;PRO050C_PRO;190118;2;;64;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND;;
-M50;PRO050D_PRO;190118;2;;64;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND;;
-M52;PRO052A_PRO;181201;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND;;
-M52;PRO052B_PRO;181201;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND;;
-M52;PRO052C_PRO;190111;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND;;
-M52;PRO052D_PRO;190111;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND;;
-M52;PRO052E_PRO;190112;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND;;
-M53;PRO053A_PRO;181201;1;;90,5;;12;ND;ND;yellow;162;133;54;ND;ND;;
-M53;PRO053B_PRO;181201;1;;90,5;;12;ND;ND;yellow;162;133;54;ND;ND;;
-M54;PRO054A_PRO;190112;2;B;90,5;;12;ND;ND;reddish_brown;57;9;5;ND;ND;;
-M54;PRO054C_PRO;190118;2;;64;;12;ND;ND;reddish_brown;57;9;5;ND;ND;;
-M54;PRO054D_PRO;190118;2;;64;;12;ND;ND;reddish_brown;57;9;5;ND;ND;;
-M55;PRO055A_PRO;181212;1;;40,3;;12;ND;ND;reddish_brown;57;9;5;ND;ND;;
-M55;PRO055B_PRO;190111;2;;90,5;;12;ND;ND;reddish_brown;57;9;5;ND;ND;;
-
+SampleID;SampleNMR;Date_YMD;Probe;Shims;RG;Type;Folder;Origen;Zona ;Color;R;G;B;Extracto;Resinas %
+M46;PRO046B_PRO;190205;2;;64;;32;Santander;bh-PM;red;115;2;0;5,48;ND
+M47;PRO047A_PRO;190205;2;;50,8;;32;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65
+M47;PRO047B_PRO;190205;2;;45,2;;32;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65
+M48;PRO048A_PRO;190118;2;;60,5;;32;Casanare;bh-T;yellow;162;133;54;7,74;14
+M25;PRO025A_PRO;180917;1;;90,5;;22;Tolima;bh-T;light_yellow;108;102;68;3,58;0
+M44;PRO044A_C;190206;2;;64;C;22;Brasil;BRA;red;115;2;0;11,51;ND
+M55;PRO055A_C;190206;2;;40,3;C;22;ND;ND;reddish_brown;57;9;5;ND;ND
+M1;PRO001A_PRO;180910;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6;47
+M1;PRO001B_PRO;180910;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6;47
+M2;PRO002A_PRO;180910;1;;90,5;;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7
+M2;PRO002B_C;190207;1;;50,8;C;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7
+M2;PRO002B_PRO;180910;1;;90,5;;12;Antioquia;bh-PM;reddish_yellow;246;99;1;4,76;7
+M3;PRO003A_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;3,68;10
+M3;PRO003B_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;3,68;10
+M4;PRO004A_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;2,29;10
+M4;PRO004B_PRO;180910;1;;90,5;;12;Risaralda;bh-PM;yellow;162;133;54;2,29;10
+M5;PRO005A_PRO;180911;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,09;6
+M5;PRO005B_PRO;180911;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,09;6
+M6;PRO006A_PRO;180911;1;;90,5;;12;Boyaca;bs-MB;blackish_brown;50;12;6;7,15;18
+M6;PRO006B_PRO;180911;1;;90,5;;12;Boyaca;bs-MB;blackish_brown;50;12;6;7,15;18
+M7;PRO007A_PRO;180911;1;;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5
+M7;PRO007B_PRO;180911;1;B;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5
+M7;PRO007C_PRO;180912;1;;90,5;;12;Valle;bh-PM;light_yellow;108;102;68;3,15;5
+M8;PRO008A_PRO;180911;1;;90,5;;12;Boyaca;bh-PM;reddish_brown;57;9;5;2,42;37
+M8;PRO008B_PRO;180911;1;B;90,5;;12;Boyaca;bh-PM;reddish_brown;57;9;5;2,42;37
+M8;PRO008C_PRO;180912;1;;90,5;;12;Boyaca;bh-PM;reddish_brown;57;9;5;2,42;37
+M9;PRO009A_PRO;180913;1;;90,5;;12;Boyaca;bh-PM;reddish_yellow;246;99;1;3,69;28
+M9;PRO009B_PRO;180913;1;;90,5;;12;Boyaca;bh-PM;reddish_yellow;246;99;1;3,69;28
+M10;PRO010A_PRO;180912;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;5,68;17
+M10;PRO010B_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;5,68;17
+M11;PRO011A_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;2,33;21
+M11;PRO011B_PRO;180913;1;;90,5;;12;Tolima;bh-T;yellow;162;133;54;2,33;21
+M12;PRO012A_PRO;180913;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13
+M12;PRO012B_PRO;180913;1;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13
+M12;PRO012C_PRO;180913;1;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13
+M12;PRO012D_PRO;180913;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;4,26;13
+M13;PRO013A_PRO;180913;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;5,99;65
+M13;PRO013B_PRO;180913;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;5,99;65
+M14;PRO014A_PRO;180913;1;;90,5;;12;Boyaca;bs-MB;reddish_yellow;246;99;1;4,22;17
+M14;PRO014B_PRO;180913;1;;90,5;;12;Boyaca;bs-MB;reddish_yellow;246;99;1;4,22;17
+M15;PRO015A_PRO;180914;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;4,38;54
+M15;PRO015B_PRO;180914;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;4,38;54
+M16;PRO016A_PRO;180914;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;2,88;11
+M16;PRO016B_PRO;180914;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;2,88;11
+M18;PRO018A_PRO;180915;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;4,2;36
+M18;PRO018B_PRO;180915;1;;90,5;;12;Boyaca;bs-MB;yellow;162;133;54;4,2;36
+M19;PRO019A_PRO;180915;1;;90,5;;12;Arauca;bh-T;blackish_brown;50;12;6;7,01;53
+M19;PRO019B_PRO;180915;1;;90,5;;12;Arauca;bh-T;blackish_brown;50;12;6;7,01;53
+M20;PRO020A_PRO;180915;1;;90,5;;12;Arauca;bh-T;yellow;162;133;54;5,73;29
+M20;PRO020B_PRO;180915;1;;90,5;;12;Arauca;bh-T;yellow;162;133;54;5,73;29
+M21;PRO021A_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;reddish_yellow;246;99;1;3,55;19
+M21;PRO021B_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;reddish_yellow;246;99;1;3,55;19
+M22;PRO022A_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;yellow;162;133;54;4,02;62
+M22;PRO022B_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;yellow;162;133;54;4,02;62
+M23;PRO023A_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;yellow;162;133;54;3,66;ND
+M23;PRO023B_PRO;180915;1;;90,5;;12;Boyaca;bh-MB;yellow;162;133;54;3,66;ND
+M24;PRO024A_PRO;180915;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,73;8
+M24;PRO024B_PRO;180915;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,73;8
+M25;PRO025B_PRO;180917;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;3,58;0
+M26;PRO026A_C;181104;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7
+M26;PRO026A_PRO;190207;2;;50,8;C;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7
+M26;PRO026B_PRO;181104;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,88;7
+M27;PRO027A_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;1,97;13
+M27;PRO027B_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;1,97;13
+M28;PRO028A_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,5;ND
+M28;PRO028B_PRO;181105;1;;90,5;;12;Tolima;bh-T;light_yellow;108;102;68;2,5;ND
+M29;PRO029A_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;4,74;60
+M29;PRO029B_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;4,74;60
+M30;PRO030A_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,34;21
+M30;PRO030B_PRO;181125;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,34;21
+M31;PRO031A_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,15;6
+M31;PRO031B_PRO;181126;1;;90,5;;12;Quindio;bh-PM;light_yellow;108;102;68;3,15;6
+M32;PRO032A_PRO;181126;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,36;2
+M32;PRO032B_PRO;181126;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,36;2
+M33;PRO033A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,45;3
+M33;PRO033B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,45;3
+M34;PRO034A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,86;ND
+M34;PRO034B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,86;ND
+M35;PRO035A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;5,58;51
+M35;PRO035B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;5,58;51
+M36;PRO036A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,23;69
+M36;PRO036B_C;190207;2;;50,8;C;12;San Andres;bs-T;red;115;2;0;7,23;69
+M36;PRO036B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,23;69
+M37;PRO037A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,09;58
+M37;PRO037B_C;190206;2;;50,8;C;12;San Andres;bs-T;red;115;2;0;7,09;58
+M37;PRO037B_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;7,09;58
+M38;PRO038A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_yellow;246;99;1;1,94;15
+M38;PRO038B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_yellow;246;99;1;1,94;15
+M39;PRO039A_PRO;181125;1;;90,5;;12;Tolima;bh-PM;reddish;124;37;1;1,13;13
+M39;PRO039B_C;190207;2;;50,8;C;12;Tolima;bh-PM;reddish;124;37;1;1,13;13
+M39;PRO039B_PRO;181125;1;;90,5;;12;Tolima;bh-PM;reddish;124;37;1;1,13;13
+M40;PRO040A_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_brown;57;9;5;2,56;ND
+M40;PRO040B_PRO;181130;1;;90,5;;12;Tolima;bh-PM;reddish_brown;57;9;5;2,56;ND
+M41;PRO041_C;190206;2;;90,5;C;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11
+M41;PRO041A_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11
+M41;PRO041B_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;0,95;11
+M42;PRO042A_C;190207;2;;50,8;C;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND
+M42;PRO042A_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND
+M42;PRO042B_PRO;181201;1;;90,5;;12;Tolima;bh-PM;light_yellow;108;102;68;1,09;ND
+M44;PRO044A_PRO;180921;2;;90,5;;12;Brasil;BRA;red;115;2;0;11,51;ND
+M44;PRO044B_PRO;180921;1;;90,5;;12;Brasil;BRA;red;115;2;0;11,51;ND
+M45;PRO045A_PRO;180921;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,96;ND
+M45;PRO045B_PRO;180922;1;;90,5;;12;San Andres;bs-T;red;115;2;0;6,96;ND
+M46;PRO046A_PRO;190118;2;B;64;;12;Santander;bh-PM;red;115;2;0;5,48;ND
+M47;PRO047A_C;190206;2;;50,8;C;12;Santander;bh-PM;reddish_yellow;246;99;1;4,23;65
+M48;PRO048B_PRO;190118;2;;64;;12;Casanare;bh-T;yellow;162;133;54;7,74;14
+M49;PRO049A_PRO;181201;1;;90,5;;12;Bolivar;bs-T;reddish_yellow;246;99;1;ND;ND
+M49;PRO049B_PRO;181201;1;;90,5;;12;Bolivar;bs-T;reddish_yellow;246;99;1;ND;ND
+M50;PRO050A_PRO;181213;1;;90,5;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND
+M50;PRO050C_PRO;190118;2;;64;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND
+M50;PRO050D_PRO;190118;2;;64;;12;Bolivar;bs-T;light_yellow;108;102;68;ND;ND
+M52;PRO052A_PRO;181201;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND
+M52;PRO052B_PRO;181201;1;B;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND
+M52;PRO052C_PRO;190111;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND
+M52;PRO052D_PRO;190111;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND
+M52;PRO052E_PRO;190112;2;;90,5;;12;Meta;bh-T;reddish_brown;57;9;5;ND;ND
+M53;PRO053A_PRO;181201;1;;90,5;;12;ND;ND;yellow;162;133;54;ND;ND
+M53;PRO053B_PRO;181201;1;;90,5;;12;ND;ND;yellow;162;133;54;ND;ND
+M54;PRO054A_PRO;190112;2;B;90,5;;12;ND;ND;reddish_brown;57;9;5;ND;ND
+M54;PRO054C_PRO;190118;2;;64;;12;ND;ND;reddish_brown;57;9;5;ND;ND
+M54;PRO054D_PRO;190118;2;;64;;12;ND;ND;reddish_brown;57;9;5;ND;ND
+M55;PRO055A_PRO;181212;1;;40,3;;12;ND;ND;reddish_brown;57;9;5;ND;ND
+M55;PRO055B_PRO;190111;2;;90,5;;12;ND;ND;reddish_brown;57;9;5;ND;ND
